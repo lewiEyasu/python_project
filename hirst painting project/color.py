@@ -15,6 +15,7 @@ class color:
     tim=turtle.Turtle()
     turtle.colormode(255)
     tim.speed('fastest')
+    tim.ht()
 
 
     tim.penup()
